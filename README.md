@@ -1,3 +1,6 @@
+NAME: LIDISON SHAM M
+REGISTRATION NUMBERl:2122224040171
+
 # Fitting Poisson  distribution
 # Aim : 
 
